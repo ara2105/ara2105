@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="https://chat.openai.com/cdn-cgi/imagedelivery/0bLE0-7tn5U2cY5SVzm9mQ/540f231b-2fcf-4d5e-a1b1-fb1eea6fdc84/public" height="180" alt="Aradhya avatar" />
+<img 
+  src="https://raw.githubusercontent.com/ara2105/ara2105/main/aradhya_avatar.png" 
+  style="height: 300px; filter: drop-shadow(0 0 0 white) drop-shadow(0 0 3px white) drop-shadow(0 0 6px white); border-radius: 50%;" 
+/>
 </div>
 
 
