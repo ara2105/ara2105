@@ -1,7 +1,7 @@
 <div align="center">
 <img 
   src="https://raw.githubusercontent.com/ara2105/ara2105/main/aradhya_avatar.png" 
-  style="height: 300px; filter: drop-shadow(0 0 0 white) drop-shadow(0 0 3px white) drop-shadow(0 0 6px white); border-radius: 50%;" 
+  style="height: 250px; filter: drop-shadow(0 0 0 white) drop-shadow(0 0 3px white) drop-shadow(0 0 6px white); border-radius: 50%;" 
 />
 </div>
 
